@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetJ2_15 Pin=J5-1
+Removed Pin From Net: NetName=NetJ2_11 Pin=J5-2
+Removed Pin From Net: NetName=NetJ2_14 Pin=J5-3
+Removed Pin From Net: NetName=NetJ2_13 Pin=J5-4
+Removed Pin From Net: NetName=NetC2_1 Pin=J5-5
+Removed Pin From Net: NetName=GND Pin=J5-6
+Change Component Comment : Designator=J6 Old Comment=433MHz Air New Comment=433MHz Air Connector
+Change Component Comment : Designator=C1 Old Comment=CAP ALUM 100UF 20% 16V SMD New Comment=CAP ALUM 220UF 20% 16V SMD
+Change Component Comment : Designator=C2 Old Comment=CAP ALUM 100UF 20% 16V SMD New Comment=CAP ALUM 220UF 20% 16V SMD
+Change Component Comment : Designator=J7 Old Comment=ESC 1 New Comment=ESC1 Connector
+Change Component Comment : Designator=J8 Old Comment=ESC 2 New Comment=ESC2 Connector
+Change Component Comment : Designator=J9 Old Comment=ESC 3 New Comment=ESC3 Connector
+Change Component Comment : Designator=J10 Old Comment=ESC 4 New Comment=ESC4 Connector
+Change Component Comment : Designator=U1 Old Comment=IC REG BUCK 5V 3A TO263-5 New Comment=LM2576HVS-5.0 REG BUCK 5V 3A TO263-5
+Change Component Comment : Designator=J4 Old Comment=L3GD20H New Comment=L3GD20H Connector
+Change Component Comment : Designator=J2 Old Comment=Left Pins New Comment=Left Pins Connector
+Change Component Comment : Designator=J5 Old Comment=R9DS Receiver New Comment=R9DS Receiver Connector
+Change Component Comment : Designator=J3 Old Comment=Right Pins New Comment=Right Pins Connector
+Change Component Description : Designator=C1 Old Description=100µF 16V Aluminum Electrolytic Capacitors Radial, Can - SMD  1000 Hrs @ 105°C New Description=220µF 16V Aluminum Electrolytic Capacitors Radial, Can - SMD  1000 Hrs @ 105°C
+Change Component Description : Designator=C2 Old Description=100µF 16V Aluminum Electrolytic Capacitors Radial, Can - SMD  1000 Hrs @ 105°C New Description=220µF 16V Aluminum Electrolytic Capacitors Radial, Can - SMD  1000 Hrs @ 105°C
+Added Pin To Net: NetName=NetC2_1 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=NetJ2_15 Pin=J5-3
+Added Pin To Net: NetName=NetJ2_11 Pin=J5-4
+Added Pin To Net: NetName=NetJ2_14 Pin=J5-5
+Added Pin To Net: NetName=NetJ2_13 Pin=J5-6
+Added Room: Name=Board

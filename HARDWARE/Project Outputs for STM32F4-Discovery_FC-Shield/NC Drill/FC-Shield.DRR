@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FC-Shield.PcbDoc   23/05/2020  12:42:46
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FC-Shield-RoundHoles.TXT
+ASCII SlotHoles File : FC-Shield-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      32mil (0.8mm)                                             Slot              3         PTH        0.00inch (0.00mm)
+T2      35mil (0.9mm)                                             Round             109       PTH        0.00inch (0.00mm)
+T3      40mil (1.003mm)                                           Round             22        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              134
+
+Total Processing Time (hh:mm:ss) : 00:00:01

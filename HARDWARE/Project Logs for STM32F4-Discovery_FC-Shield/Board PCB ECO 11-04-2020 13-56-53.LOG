@@ -1,0 +1,12 @@
+Change Net Name : Old Net Name=ESC2_PWM New Net Name=ESC2_S
+Change Net Name : Old Net Name=NetJ2_11 New Net Name=CH2_S
+Change Net Name : Old Net Name=NetJ2_13 New Net Name=CH4_S
+Change Net Name : Old Net Name=NetJ2_14 New Net Name=CH3_S
+Change Net Name : Old Net Name=NetJ2_15 New Net Name=CH1_S
+Change Net Name : Old Net Name=NetJ3_23 New Net Name=SCL
+Change Net Name : Old Net Name=NetJ3_24 New Net Name=SDA
+Change Net Name : Old Net Name=NetJ3_37 New Net Name=TX
+Change Net Name : Old Net Name=NetJ3_38 New Net Name=RX
+Change Net Name : Old Net Name=NetJ3_45 New Net Name=ESC3_S
+Change Net Name : Old Net Name=NetJ3_46 New Net Name=ESC4_S
+Change Net Name : Old Net Name=NetJ3_47 New Net Name=ESC1_S

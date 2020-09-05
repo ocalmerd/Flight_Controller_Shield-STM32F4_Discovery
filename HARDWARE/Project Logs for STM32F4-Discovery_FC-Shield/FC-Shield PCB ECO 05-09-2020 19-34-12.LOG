@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+12V Pin=D1-1
+Added Pin To Net: NetName=+12V_E Pin=D1-2
+Added Member To Class: ClassName=FC-Shield Member=Component D1 MBR0520-HT
+Added Member To Class: ClassName=FC-Shield Member=Component D2 SMAJ5.0A TVS Diyot

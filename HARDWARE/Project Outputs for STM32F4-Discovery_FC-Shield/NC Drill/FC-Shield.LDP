@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\PC-Maxler\Personal_Drive\Kütüphane\Altium Designer\Projects\STM32F4-Discovery_FC-Shield\FC-Shield.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=fc-shield-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=fc-shield-slotholes.txt|DrillLayers=gtl,gbl

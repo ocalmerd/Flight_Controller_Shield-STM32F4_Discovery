@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=J2-23
+Added Pin To Net: NetName=GND Pin=J2-49
+Added Pin To Net: NetName=GND Pin=J3-49
+Added Pin To Net: NetName=GND Pin=J3-50
+Added Room: Name=Board

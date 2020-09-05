@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+12V Pin=J1-1
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Added Pin To Net: NetName=+12V_E Pin=J1-1
+Added Net: Name=+12V_E
+Change Class Name : Old Net Name=Board New Net Name=FC-Shield
+Added Member To Class: ClassName=FC-Shield Member=Component D2 SMAJ5.0A TVS Diyot

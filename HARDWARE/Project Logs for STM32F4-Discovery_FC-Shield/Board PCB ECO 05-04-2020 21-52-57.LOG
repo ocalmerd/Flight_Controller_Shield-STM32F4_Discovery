@@ -1,0 +1,149 @@
+Added Component: Designator=C?(CAP ALUM 6.6MM)
+Add component (AddParameter): Name = "+Sicaklik"; Value = "+105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "-Sicaklik"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cins"; Value = "Kondansator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deger"; Value = "220uF 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Epoksi Bilgisi"; Value = "VAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kaplama Bilgisi"; Value = "UYGUN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kilif"; Value = "6.60mm x 6.60mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lehim Yöntemi"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "1 (Unlimited)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nero Kodu"; Value = "NE-S-00400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Uretici Kodu"; Value = "EEE-HA1C101WP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Yikama Bilgisi"; Value = "UYGUN"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP ALUM 6.6MM)
+Add component (AddParameter): Name = "+Sicaklik"; Value = "+105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "-Sicaklik"; Value = "-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cins"; Value = "Kondansator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deger"; Value = "220uF 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Epoksi Bilgisi"; Value = "VAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kaplama Bilgisi"; Value = "UYGUN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kilif"; Value = "6.60mm x 6.60mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lehim Yöntemi"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "1 (Unlimited)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nero Kodu"; Value = "NE-S-00400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Uretici Kodu"; Value = "EEE-HA1C101WP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Yikama Bilgisi"; Value = "UYGUN"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DO214AC SMA)
+Add component (AddParameter): Name = "+Sicaklik"; Value = "+150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "-Sicaklik"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cins"; Value = "Diyot"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.digikey.com/product-detail/en/littelfuse-inc/SMAJ5.0A/SMAJ5.0ALFTR-ND/762250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deger"; Value = "SMAJ5.0A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Epoksi Bilgisi"; Value = "YOK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kaplama Bilgisi"; Value = "UYGUN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kilif"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lehim Yöntemi"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "1 (Unlimited)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nero Kodu"; Value = "NE-S-00888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Uretici Kodu"; Value = "SMAJ5.0A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Yikama Bilgisi"; Value = "UYGUN"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR1X9)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR1X4H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J?(694106301002)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6941xx301002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Opening Diameter"; Value = "6.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angled"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "694106301002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plug Inner Diameter"; Value = "2.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plug Outer Diameter"; Value = "5.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "August 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "24 V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR1X3H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR1X3H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR2X25)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR1X3H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR1X6H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR1X3H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR2X25)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-23
+Added Pin To Net: NetName=GND Pin=J?-49
+Added Pin To Net: NetName=GND Pin=J?-49
+Added Pin To Net: NetName=GND Pin=J?-50
+Added Pin To Net: NetName=GND Pin=J?-50
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D?-2
+Added Pin To Net: NetName=NetC?_1 Pin=J?-1
+Added Pin To Net: NetName=NetC?_1 Pin=J?-1
+Added Pin To Net: NetName=NetC?_1 Pin=J?-3
+Added Pin To Net: NetName=NetC?_1 Pin=J?-4
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-6
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-37
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-38
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Net: Name=NetJ?_4
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-13
+Added Net: Name=NetJ?_5
+Added Pin To Net: NetName=NetJ?_8 Pin=J?-8
+Added Pin To Net: NetName=NetJ?_8 Pin=J?-24
+Added Net: Name=NetJ?_8
+Added Pin To Net: NetName=NetJ?_9 Pin=J?-9
+Added Pin To Net: NetName=NetJ?_9 Pin=J?-23
+Added Net: Name=NetJ?_9
+Added Pin To Net: NetName=NetJ?_14 Pin=J?-14
+Added Net: Name=NetJ?_14
+Added Class: Name=Board
+Added Room: Name=Board
